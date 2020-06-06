@@ -1,0 +1,158 @@
+
+
+.navbar{
+    background-color: #D32F2F !important;
+  
+}
+
+.nav-link{
+ color: white !important;
+ font-weight: bold !important;
+}
+
+.fa-shopping-cart,.fa-user-o{
+font-size: 32px !important;
+
+}
+
+.fa-truck,.fa-headphones,.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: #D32F2F !important;
+    
+}
+h3{
+    color: #D32F2F !important;  
+}
+.card1,.card2,.card3{
+    display: flex;
+    
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.maincard{
+    margin-top: 32px;
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   flex-wrap: wrap;
+}
+
+@media screen and (max-width: 600px){
+.card1,.card2,.card3{
+    width: 100%;
+}
+
+}
+
+.newArrivals{
+    margin-top: 50px;
+}
+
+.card{
+    width: 250px;
+    height: auto !important;
+    margin-left: 50x;
+    /* box-shadow: 2px 3px tomato; */
+    justify-content: center;
+}
+/* .card-text{
+    font-weight: bold;
+} */
+
+.btn-primary{
+    width: 100%;
+    background-color: #D32F2F !important;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    color: #D32F2F ;
+    margin: 20px;
+
+}
+.heading > h1{
+text-shadow: 2px 2px 4px black;
+}
+
+.footer{
+    width: 100%;
+    background-color:#D32F2F ;
+    height: 70px;
+    margin-top: 7px
+    
+}
+
+
+.footerss{
+text-align: center !important;
+color: white;
+
+}
+
+    .eeee{
+        margin-top: 50px;
+
+    }
+
+    .headings{
+        text-align: center;
+    }
+    
+
+     .main-footer{
+        background-color: #222;
+        height: 350px;
+        width: 100%;
+        padding: 30px;
+        margin-top: 25px;
+    
+    }
+    
+    
+    .sectionfirst{
+        width: 32%;
+        height: 50%;
+        float: left;
+        font-size: 15px;
+        margin: 1em;
+        
+    }
+    .second-sec{
+        width: 32%;
+        height: 100%;
+        float: left;
+    }
+
+    
+    
+
+    @media screen and (max-width: 600px){
+        .main-footer, .sectionfirst,.second-sec{
+            width: 100%;
+        }
+        
+        }
+
+    .links{
+        color: #efefef;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+    
+    }
+    /* .third-sec{
+        width: 32%;
+        height: 100%;
+
+        margin: 8px;
+    }
+      */
+    

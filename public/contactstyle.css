@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: #D32F2F !important;
+  
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+   }
+   
+   .fa-shopping-cart,.fa-user-o{
+   font-size: 32px !important;
+   
+   }wat
+   
+   .fa-truck,.fa-headphones,.fa-thumbs-up{
+       font-size: 50px !important;
+       margin-right: 10px;
+       color: #D32F2F !important;
+       
+   }
+   h3{
+       color: #D32F2F !important;  
+   }
+
+   body{
+       background-image: url(https://comrad.co.nz/wp-content/uploads/2019/08/Contact-form-background.jpg);
+       background: (#737681,transparent);
+       background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+       margin-top: 100px;
+       height: auto;
+       font-family: 'oswald';
+
+   }
+
+   .container{
+       max-width: 500px;
+       height: auto;
+       background: #fff;
+       box-sizing: border-box;
+       padding: 40px;
+       width: auto;
+       margin-top: 50px;
+       border: royalblue;
+   }
+
+   p{
+       text-align: center;
+       letter-spacing: 1px;
+       font-size: 45px;
+       margin-bottom: 20px;
+       color: blue;
+
+      
+    
+    font-weight: bold;
+    text-shadow: 2px 2px 4px black;
+    margin: 20px;
+   }
+
+   .input, .msg .area{
+       width: 80%;
+       padding: 20px;
+       box-sizing: border-box;
+       border: 2px solid #e9eaea;
+       font-size: 14px;
+       border-radius: 5px;
+       outline: none;
+       transition: all 0.5s;
+       text-shadow: 2px 2px 4px blue;
+
+   }
+
+   .login{
+
+    width: 48%;
+    float: left;
+    margin-right: 4%;
+    
+   }
+
+   .login .input:last-child{
+margin-right: 0;
+text-shadow: 2px 2px 4px blue;
+   }
+
+   .msg .area{
+       height: 100px;
+       text-shadow: 2px 2px 4px blue;
+   }
+
+   .btn{
+    text-shadow: 2px 2px 4px black;
+    
+   }
+
+   .input .msg .area{
+       border: 2px solid #0575e6;
+   }
+
+   .main-footer{
+    background-color: #222;
+    height: 250px;
+    width: 100%;
+    padding: 30px;
+    margin-top: 25px;
+    margin-right: 1000px;
+
+}
+
+
+.sectionfirst{
+    width: 32%;
+    height: 50%;
+    float: left;
+    font-size: 15px;
+    margin: 1em;
+    
+}
+
+
+
+.second-sec{
+    width: 32%;
+    height: 100%;
+    float: left;
+    margin-top: 25px;
+}
+
+.third-sec, ul{
+/* margin-left: 100px; */
+padding: 10px;
+/* margin-top: 50px; */
+}
+
+
+.links{
+    color: #efefef;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+}
+.third-sec {
+    width: 32%;
+    height: 100%;
+    float: left;
+    margin: 8px;
+}
+
+
+ 
